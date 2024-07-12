@@ -54,3 +54,7 @@ Flatiron School Data Science Bootcamp Phase 3 Project
 <li>Investigate dimensionality reduction with UMAP or t-SNE.
 <li>Deploy to a web service to classify new tweets in real time.
 </ul>
+
+
+##
+<h4><a href="https://github.com/brayvid/tweet-sentiment-classifier/blob/main/slides.pdf">slides.pdf</a></h4>
