@@ -7,7 +7,7 @@ Flatiron School Data Science Bootcamp Phase 3 Project
 
 ## Business problem
 <h3><u>Brand reputation management</u></h3>
-<h4>Monitor brand perception by classifying new tweets as positive, negative or neutral.</h4>
+<h4>Monitor brand perception by correctly classifying new tweets as positive, negative or neutral.</h4>
 <ul>
 <li>Analyze negative feedback for insights into product weaknesses and use this to drive improvements.
 <li>Identify accounts with consistent positive sentiment and offer to collaborate.
