@@ -23,7 +23,7 @@ Flatiron School Data Science Bootcamp Phase 3 Project
 </ul>
 
 ## Results
-<h4>Support Vector Classifier (SVC): <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html">https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html</a></h4>
+<h4>Support Vector Classifier: <a href="https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html">https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html</a></h4>
 <table>
 <tr>
 <td>Label</td>
