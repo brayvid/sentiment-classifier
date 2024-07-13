@@ -57,3 +57,6 @@ I tried several model types, and a <a href="https://scikit-learn.org/stable/modu
 <li>Investigate dimensionality reduction with UMAP or t-SNE.
 <li>Deploy to a web service to classify new tweets in real time.
 </ul>
+
+
+This project highlights the importance of sentiment analysis in brand reputation management and provides a foundation for further development and deployment in a real-world setting.
