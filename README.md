@@ -17,7 +17,7 @@ Flatiron School Data Science Bootcamp Phase 3 Project
 ## Dataset
 <h4><a href="https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset">https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset</a></h4>
 <ul>
-<li>Three classes: <code>positive</code>, <code>negative</code>, <code>neutral</code> in column called <code>sentiment</code>.
+<li>Three classes: positive, negative, neutral in column called <code>sentiment</code>.
 <li>27,000 tweets formatted as strings in <code>text</code> column.
 <li><code>selected_text</code> is an additional column containing the substring of each tweet relevant to classification.
 </ul>
@@ -31,17 +31,17 @@ Flatiron School Data Science Bootcamp Phase 3 Project
 <td>Recall</td>
 </tr>
 <tr>
-<td><code>negative</code></td>
+<td>negative</td>
 <td>83%</td>
 <td>77%</td>
 </tr>
 <tr>
-<td><code>neutral</code></td>
+<td>neutral</td>
 <td>78%</td>
 <td>91%</td>
 </tr>
 <tr>
-<td><code>positive</code></td>
+<td>positive</td>
 <td>93%</td>
 <td>80%</td>
 </tr>
