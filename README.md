@@ -1,6 +1,6 @@
 # Tweet Sentiment Classifier
 
-<a href="https://colab.research.google.com/github/brayvid/tweet-sentiment-classifier/blob/main/tweet_sentiment_classifier.ipynb" rel="Open in Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" /></a>
+<a href="https://colab.research.google.com/github/brayvid/sentiment-classifier/blob/main/tweet_sentiment_classifier.ipynb" rel="Open in Colab"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="" /></a>
 <h4>Blake Rayvid - <a href=https://github.com/brayvid>https://github.com/brayvid</a></h4>
 Flatiron School Data Science Bootcamp Phase 3 Project
 <h4><a href="slides.pdf">Presentation slides</a></h4>
