@@ -60,3 +60,7 @@ I tried several model types, and a <a href="https://scikit-learn.org/stable/modu
 
 
 This project highlights the importance of sentiment analysis in brand reputation management and provides a foundation for further development and deployment in a real-world setting.
+
+----
+
+<p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
